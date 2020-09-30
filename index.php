@@ -30,6 +30,12 @@ and open the template in the editor.
             return $valor_devuelto;
         } 
         
+        function ofc_especial(){
+            echo "Oriol Fornos Cuni";
+        }
+        
+        ofc_especial();
+        
         ?>
     </body>
 </html>
