@@ -31,9 +31,6 @@ and open the template in the editor.
         } 
         
         function ofc_especial(){
-            echo "<h2>Diego nombre del compañero del grupo</h2>";
-            
-            echo "<h2>Añadido codigo para asi hacer el comit</h2>";
         }
         
         ofc_especial();
