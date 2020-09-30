@@ -31,7 +31,9 @@ and open the template in the editor.
         } 
         
         function ofc_especial(){
-            echo "Oriol Fornos Cuni";
+            echo "<h2>Oriol Fornos Cuni</h2>";
+            
+            echo "<h2>Añadido codigo para asi hacer el comit</h2>";
         }
         
         ofc_especial();
