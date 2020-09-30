@@ -18,11 +18,11 @@ and open the template in the editor.
             return $valor_devuelto;
         }
         
-        /*
+        
         function of_suma($arg_1, $arg_2)
         {
             echo "Función de suma.\n";  
-        } */
+        } 
         
         /* function of_resta($arg_1, $arg_2)
         {
