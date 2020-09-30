@@ -24,11 +24,11 @@ and open the template in the editor.
             echo "Función de suma.\n";  
         } 
         
-        /* function of_resta($arg_1, $arg_2)
+        function of_resta($arg_1, $arg_2)
         {
             echo "Función de resta.\n";
             return $valor_devuelto;
-        } */
+        } 
         
         ?>
     </body>
